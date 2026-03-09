@@ -1,7 +1,9 @@
 # Sprout
 
 A clean, interactive web project built with Next.js and TypeScript. <br/>
-Based on the course by developedbyed.
+Based on the course by developedbyed. <br/>
+
+Last updated: Sep 19, 2025 <br/>
 
 ## Tech Stack
 
@@ -20,6 +22,3 @@ Based on the course by developedbyed.
 - Zustand
 - Framer Motion
 
-## Live Demo
-Last updated: Sep 19, 2025 <br/>
-Live: [https://sprout-eta.vercel.app/](https://sprout-eta.vercel.app/)
