@@ -7,8 +7,8 @@ Last updated: Sep 19, 2025 <br/>
 
 ## Tech Stack
 
-- Next.js 15
-- React 19
+- Next.js
+- React
 - TypeScript
 - Tailwind CSS
 - Drizzle ORM
